@@ -1,0 +1,33 @@
+Study Compass · Sound credits / 录音来源
+
+The MP3 files are edited loops. Edits include trimming, filtering, loudness
+adjustment, loop crossfades and MP3 encoding. Each audio adaptation is
+distributed under the license listed for its recording.
+
+sound-forest.mp3 — WoodThrushinMorningShawneeForestMay272012.wav
+Recording by kvgarlic. Edited for Blanket by Porrumentzio.
+https://freesound.org/people/kvgarlic/sounds/156826/
+CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/
+
+sound-drizzle.mp3 — Sound of light rainfall
+Recording by Mijesty, via Wikimedia Commons.
+https://commons.wikimedia.org/wiki/File:Sound_of_light_rainfall.ogg
+CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+
+sound-steady.mp3 — rain ambience
+Recording by alex36917. Edited for Blanket by Porrumentzio.
+https://freesound.org/people/alex36917/sounds/524605/
+CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+
+sound-downpour.mp3 — Ambiance - Heavy Rain Loop
+Layered rain recording by DWOBoyle (formerly D W), via AmbientSounds.
+https://freesound.org/people/DWOBoyle/sounds/136971/
+CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+
+sound-night.mp3 — Crickets Chirping At Night
+Recording by Lisa Redfern, via SoundBible and Blanket.
+https://soundbible.com/2083-Crickets-Chirping-At-Night.html
+Public domain.
+
+Blanket sound attribution: https://github.com/rafaelmardojai/blanket/blob/master/SOUNDS_LICENSING.md
+AmbientSounds sound attribution: https://github.com/Muges/ambientsounds/blob/master/readme.md
