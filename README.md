@@ -25,7 +25,9 @@ Study Compass 是一款面向学生的网页学习工具，适合日常复习、
 | 资料库 | 将 PDF 和图片按科目整理，关联到任务。PDF 可指定页码和题号，阅读时可接续上次位置。 |
 | 错题与主动回忆 | 保存题目和解析照片，按间隔复习。记录重做结果，回看反复出错的题目。 |
 | 学习统计 | 查看专注时长、完成量和正确率，按日期或科目筛选，并导出 CSV 汇总。 |
-| 学习森林 | 每分钟实际专注得 1 点。在可缩放、可拖动的俯视地图上种树和浇水。逐步开拓林地，养成三棵成树后把树林带入自习室窗景。 |
+| 学习森林 | 每分钟实际专注得 1 点。在 2.5D 斜俯视林地中种树和浇水，查看立体枝叶、坡地、溪流与木桥。支持缩放、平移和树位选择。逐步开拓林地，养成三棵成树后把树林带入自习室窗景。 |
+
+林地使用原创 Blender 树模型与 Three.js 实时渲染。无法使用 WebGL 时会自动切换到同源模型生成的 2.5D 兼容画面，种树和浇水仍可正常使用。
 
 ## 账号与数据
 
@@ -41,7 +43,7 @@ Study Compass 是一款面向学生的网页学习工具，适合日常复习、
 python3 -m http.server 8000
 ```
 
-部署到 GitHub Pages 时，在仓库的 **Settings → Pages** 中选 **Deploy from a branch**，选择 `main` 和 `/(root)`。也可以把根目录发布到其他静态托管平台。发布时将 `index.html`、`favicon.svg`、`scene-*.webp`、`pdf-engine-*` 和 `sound-*` 放在同一目录。
+部署到 GitHub Pages 时，在仓库的 **Settings → Pages** 中选 **Deploy from a branch**，选择 `main` 和 `/(root)`。也可以把根目录发布到其他静态托管平台。发布时将 `index.html`、`favicon.svg`、`scene-*.webp`、`grove-*`、`pdf-engine-*` 和 `sound-*` 放在同一目录。
 
 当前发布包连接线上版的账号同步服务。自建独立的账号与资料存储时，需要用自己的后端配置重新构建。第三方许可见 [PDF 阅读器](pdf-engine-LICENSE.txt)和[环境声录音](sound-credits.txt)。
 
